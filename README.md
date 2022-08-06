@@ -1,2 +1,2 @@
 # RUST
-Bitcoin Protocol development road.
+Bitcoin Protocol development journey.
